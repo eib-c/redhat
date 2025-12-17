@@ -37,7 +37,7 @@ systemctl restart rsyslog
 /mnt/auto  /etc/auto.mnt
 ```
 
-### Indirect maps (most common on the exam)
+### Indirect maps
 
 ```
 *   -rw   server:/export/&
